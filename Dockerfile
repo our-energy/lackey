@@ -1,4 +1,4 @@
-FROM php:7.2-cli-alpine
+FROM php:7.4.1-cli-alpine
 
 RUN apk --update --no-cache add bash python py-pip git nodejs nodejs-npm yarn zip \
     && pip install --no-cache-dir awscli awsebcli setuptools \

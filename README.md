@@ -8,12 +8,12 @@ Based on Alpine, it supports;
 
 * AWS CLI
 * AWS EB CLI
-* PHP 7.2
+* PHP 7.4.1
 * Composer 1.8
-* Node 8
-* Yarn 1.7
+* Node 12.14
+* Yarn 1.19
 * Python 2.7
-* Git 2.18
+* Git 2.24
 
 ## Usage
 
